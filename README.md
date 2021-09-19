@@ -5,7 +5,7 @@ Ce projet utilise le docker compose de hex46/Docker-Keycloak-Pgadmin-App.
 
 ## Quelques infos 
 
-Ce projet est basé sur [cet article sur Medium](https://medium.com/devops-dudes/securing-spring-boot-rest-apis-with-keycloak-1d760b2004e).
+Ce projet est basé sur [cet article (Medium)](https://medium.com/devops-dudes/securing-spring-boot-rest-apis-with-keycloak-1d760b2004e).
 
 ## Quelques commandes
 
